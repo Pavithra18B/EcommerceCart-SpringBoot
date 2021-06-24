@@ -1,7 +1,7 @@
 package com.ECart.Project.jwt;
 
 import com.ECart.Project.Entity.User;
-
+   
 public class JwtResponse {
 	private User user;
 	private String jwtToken;

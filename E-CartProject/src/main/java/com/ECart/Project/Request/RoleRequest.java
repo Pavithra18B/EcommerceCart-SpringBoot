@@ -1,7 +1,7 @@
 package com.ECart.Project.Request;
 
 import lombok.Data;
-
+  
 @Data
 public class RoleRequest {
 

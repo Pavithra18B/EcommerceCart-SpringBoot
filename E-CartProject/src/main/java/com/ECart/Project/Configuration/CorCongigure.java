@@ -12,7 +12,7 @@ public class CorCongigure {
 	    private static final String POST = "POST";
 	    private static final String PUT = "PUT";
 	    private static final String DELETE = "DELETE";
-
+  
 	    @Bean
 	    public WebMvcConfigurer corsConfigurer() {
 	    	System.out.println("jwt config");

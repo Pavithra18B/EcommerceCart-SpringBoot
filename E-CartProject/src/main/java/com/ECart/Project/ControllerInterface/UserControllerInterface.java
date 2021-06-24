@@ -5,5 +5,5 @@ import com.ECart.Project.Request.UserRequest;
 
 public interface UserControllerInterface {
 	public User addUser(UserRequest userRequest) throws Exception;
-
+    
 }

@@ -24,7 +24,7 @@ public class UserController implements UserControllerInterface {
 	 * 
 	 * }
 	 */
-
+     
 	@Override
 	@PostMapping("/adduser")
 	public User addUser(@RequestBody UserRequest userRequest) throws Exception {

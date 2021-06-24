@@ -1,5 +1,5 @@
 package com.ECart.Project.jwt;
-
+    
 public class JwtRequest {
 	private String username;
 	private String userpassword;

@@ -6,4 +6,4 @@ import com.ECart.Project.Request.RoleRequest;
 public interface RoleControllerInterface {
 	public Role addRole(RoleRequest roleRequest);
 
-}
+}   
